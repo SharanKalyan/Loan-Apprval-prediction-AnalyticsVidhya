@@ -10,7 +10,7 @@ I have Imported the data, analysed the necessary data, Cleansed, Imputed the Nul
 For predicting wheather a customer can be approved for the loan, I have used 8 Different Models, Used the ROC curve and F1 score as a metric ( as the data was Imballanced).
 I have taken the Ensemble of those 8 models to predict the test dataset. I was able to achieve an Roc score of 0.78 for the test data. 
 
-The major goal here is to make sure we reduce the Type 2 error, Which is to avoid approving loans to the bad customers and improve the Precision of Class 1 (which is to make sure the model approves the loan for good customers) 
+The major goal here is to make sure we reduce the Type 2 errors, which is to avoid approving loans to the bad customers and improve the Precision of Class 1 (which is to make sure the model approves the loan for good customers) 
 
 I will be constantly updating this repo to improve the score! :)
 
